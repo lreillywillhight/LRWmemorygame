@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: #8f4791;
+}
+h1 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 700;
+	font-size: 65;
+	text-decoration: underline;
+}
+p {
+	font-family: 'Baloo 2', cursive;
+	font-size: 14;
+	font-weight: 600;
+	background-color: #b281c5;
+}
+h2 {
+	background-color: rgb(50,50,50);
+
+}
+.link1 {
+	color: rgb(135,212,135);
+}
+.link2 {
+	color: rgb(120,120,190);
+}
+.copywrite {
+	font-size: 12;
+	background-color: #8f4791;
+}
