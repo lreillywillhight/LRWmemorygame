@@ -16,8 +16,14 @@ p {
 }
 h2 {
 	background-color: rgb(50,50,50);
+	text
 
 }
+/*header {
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+}*/
 .link1 {
 	color: rgb(135,212,135);
 }
@@ -27,4 +33,5 @@ h2 {
 .copywrite {
 	font-size: 12;
 	background-color: #8f4791;
+	padding-top: 85
 }
